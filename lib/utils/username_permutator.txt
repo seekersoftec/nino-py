@@ -1,0 +1,32 @@
+# The only characters you can use are uppercase and lowercase letters, numbers, and the underscore character(_).
+# Here are a more few tips to keep in mind when choosing a Twitter username: A good username is the same, or similar to, your own name.
+
+#
+#
+# Here are the possible reasons why you would be unable to claim a username that seems available:
+#
+# Usernames containing the words Twitter or Admin cannot be claimed. No account names can contain Twitter or Admin unless they are official Twitter accounts.
+# Your username cannot be longer than 15 characters. Your name can be longer (50 characters) or shorter than 4 characters, but usernames are kept shorter for the sake of ease.
+# A username can only contain alphanumeric characters (letters A-Z, numbers 0-9) with the exception of underscores, as noted above. Check to make sure your desired username doesn't contain any symbols, dashes, or spaces.
+# The username may be claimed by a suspended or deactivated account. Suspended and deactivated usernames are not immediately available for use, so you’ll need to select a different username.
+#
+#
+# https://www.postplanner.com/how-to-find-good-twitter-usernames/
+# https://blog.shift4shop.com/best-username-generators
+# https://www.google.com/search?q=standard+linkedln+formats+for+usernames&oq=standard+linkedln+formats+for+usernames&aqs=chrome..69i57.6397j0j7&sourceid=chrome&ie=UTF-8
+# https://www.google.com/search?q=standard+facebook+formats+for+usernames&oq=standard+facebook+formats+for+usernames&aqs=chrome..69i57.6774j0j7&sourceid=chrome&ie=UTF-8
+# https://www.google.com/search?q=standard+twitter+formats+for+usernames&oq=standard+twitter+formats+for+usernames&aqs=chrome..69i57j0i433j46i199i291i433j0j0i433j69i65l3.9573j0j7&sourceid=chrome&ie=UTF-8
+#
+#
+#
+
+class TwitterUsernamePermutator:
+    def __init__(self):
+        super().__init__()
+
+#
+
+#
+#
+#
+https://foller.me/
