@@ -1,6 +1,7 @@
 import twint
-from .requests_lib import AsyncRequests, TorRequests
 from bs4 import BeautifulSoup
+#
+from requests_lib import AsyncRequests, TorRequests
 
 
 def twitter_search(email):
